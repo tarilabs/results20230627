@@ -1,0 +1,9 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: joinCount","Param: nestedAccumulates","Param: objectsPerSegment","Param: perSegmentUpdate","Param: segmentCount"
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,0.776467,0.052855,"ms/op",2,true,5,true,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,0.790315,0.046751,"ms/op",2,true,5,false,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,1.317692,0.072676,"ms/op",2,true,15,true,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,1.348272,0.088806,"ms/op",2,true,15,false,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,1.199854,0.064354,"ms/op",2,false,5,true,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,1.130485,0.055773,"ms/op",2,false,5,false,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,15.635645,0.425153,"ms/op",2,false,15,true,3
+"org.drools.benchmarks.turtle.runtime.SubNetworkBenchmark.benchmark","ss",1,100,10.513643,0.358452,"ms/op",2,false,15,false,3
